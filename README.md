@@ -1,13 +1,13 @@
-### Hello foucs  
+### Hey Dev, Welcome to my profile.  
 
-- 🔭 I’m currently working on back-end
+- 🔭 I’m currently working on Back-end
 - 🌱 I’m currently learning TDD and Micro Services
 - 📫 How to reach me: caio.jordan15@hotmail.com
 
 <div align="center">
   <a href="https://github.com/caio-jordan">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caio-jordan&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caio-jordan&layout=compact&langs_count=7&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=caio-jordan&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caio-jordan&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 </div>
